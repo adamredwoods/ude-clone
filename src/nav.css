@@ -3,6 +3,7 @@
    height: 40px;
    width: 100%;
    color: #fff;
+   font-family: 'Open Sans' sans-serif;
 }
 
 .promo-close {
@@ -21,6 +22,7 @@
    vertical-align: middle;
    width: 100%;
    position: relative;
+   font-family: 'Open Sans' sans-serif;
 }
 
 .Nav div {
